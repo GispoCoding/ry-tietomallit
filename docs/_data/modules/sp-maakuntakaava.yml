@@ -1,7 +1,7 @@
 title: "Maakuntakaavaamääräyskokoelma hanke 2022-2023"
 basepath: "kehitys/sp-maakuntakaava"
 nav_items:
-- groupId: "sp-mk"
+- groupId: "sp-maakuntakaava"
   title: "Maakuntakaavan soveltamisprofiili"
   nav_items:
   - pageId: "johdanto"
